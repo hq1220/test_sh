@@ -1,0 +1,67 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1551667662198" stop="1551667662235">
+  <name>test_contact</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1551667662198" status="passed" stop="1551667662209">
+      <name>TestContact.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8368-MainThread"/>
+        <label name="host" value="hq"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1551667662207" status="passed" stop="1551667662209">
+          <name>登录的测试脚本</name>
+          <title>登录的测试脚本</title>
+          <attachments>
+            <attachment source="d4c16b8b-aff0-4a0a-afaa-000e9f0eec52-attachment.txt" title="输入用户名" type="text/plain"/>
+            <attachment source="26269381-acfc-4b85-9379-f17edee372d4-attachment.txt" title="输入密码" type="text/plain"/>
+            <attachment source="cf275209-9eb8-4839-8ea7-a80ae3745eae-attachment.txt" title="登录" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1551667662220" status="passed" stop="1551667662227">
+      <name>TestContact.test_username</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="8368-MainThread"/>
+        <label name="host" value="hq"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1551667662226" status="passed" stop="1551667662226">
+          <name>用户名的测试脚本</name>
+          <title>用户名的测试脚本</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1551667662231" status="passed" stop="1551667662235">
+      <name>TestContact.test_password</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="trivial"/>
+        <label name="thread" value="8368-MainThread"/>
+        <label name="host" value="hq"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1551667662235" status="passed" stop="1551667662235">
+          <name>密码的测试脚本</name>
+          <title>密码的测试脚本</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

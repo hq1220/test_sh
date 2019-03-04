@@ -1,0 +1,5 @@
+[
+  "scripts/test_contact.py::TestContact::()::test_login",
+  "scripts/test_contact.py::TestContact::()::test_username",
+  "scripts/test_contact.py::TestContact::()::test_password"
+]

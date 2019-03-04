@@ -1,0 +1,85 @@
+{
+  "uid" : "def8c4df19e58df3",
+  "name" : "TestContact.test_username",
+  "fullName" : "test_contact.TestContact.test_username",
+  "historyId" : "ceec5905aaaa0a56d3c10d477ac0bfd2",
+  "time" : {
+    "start" : 1551667662220,
+    "stop" : 1551667662227,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "用户名的测试脚本",
+      "time" : {
+        "start" : 1551667662226,
+        "stop" : 1551667662226,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hq"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "8368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestContact.test_username"
+  }, {
+    "name" : "package",
+    "value" : "test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "def8c4df19e58df3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,103 @@
+{
+  "uid" : "eb26e5da35f04f56",
+  "name" : "TestContact.test_login",
+  "fullName" : "test_contact.TestContact.test_login",
+  "historyId" : "8798d55fa5489e91a12283bfe3d52216",
+  "time" : {
+    "start" : 1551667662198,
+    "stop" : 1551667662209,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录的测试脚本",
+      "time" : {
+        "start" : 1551667662207,
+        "stop" : 1551667662209,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "da2a1210f62eb469",
+        "name" : "输入用户名",
+        "source" : "da2a1210f62eb469.txt",
+        "type" : "text/plain",
+        "size" : 24
+      }, {
+        "uid" : "97527166ffa0e2fe",
+        "name" : "输入密码",
+        "source" : "97527166ffa0e2fe.txt",
+        "type" : "text/plain",
+        "size" : 21
+      }, {
+        "uid" : "e368324795ed68d",
+        "name" : "登录",
+        "source" : "e368324795ed68d.txt",
+        "type" : "text/plain",
+        "size" : 15
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hq"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8368-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestContact.test_login"
+  }, {
+    "name" : "package",
+    "value" : "test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb26e5da35f04f56.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "def8c4df19e58df3",
+  "name" : "TestContact.test_username",
+  "time" : {
+    "start" : 1551667662220,
+    "stop" : 1551667662227,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "eb26e5da35f04f56",
+  "name" : "TestContact.test_login",
+  "time" : {
+    "start" : 1551667662198,
+    "stop" : 1551667662209,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bf2d8290e097d6c",
+  "name" : "TestContact.test_password",
+  "time" : {
+    "start" : 1551667662231,
+    "stop" : 1551667662235,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+} ]
